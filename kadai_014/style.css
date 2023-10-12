@@ -4,9 +4,8 @@ body {
   text-align: center;
 }
 h1 {
-  font-family: 'Josefin Sans', sans-serif;
-  font-family: 'Noto Sans JP', sans-serif;
-  font-size: 40px;
+  font-family: 'Josefin Sans', 'Noto Sans JP', sans-serif;
+  font-size: 200%;
   letter-spacing: 1.2em;
   text-shadow: 4px 4px 4px gray;
   border-bottom: solid 3px rgb(115, 115, 114);
